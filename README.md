@@ -43,6 +43,13 @@ While working with legislatures, we've also advocated for specific topics that t
 * [**Principal Authority: A New Perspective on Self-Sovereign Identity**](https://www.blockchaincommons.com/articles/Principal-Authority/) — A new legal foundation for self-sovereign identity in Wyoming.
 * [**Private Key Disclosure: A Needless Threat to Rights and Assets**](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/) — How courts are forcing disclosure of private keys, and why that's the wrong thing to do.
 
+## Other Organizations
+
+We're thrilled that other organizations are advocating for similar visions.
+
+* [**COPA**](https://www.opencrypto.org/) We are [members of](https://www.blockchaincommons.com/partnerships/BCC-Joins-COPA/) the [Crypto Open Patent Alliance](https://www.opencrypto.org/).
+* [**EFF**](https://www.eff.org/) — We are big fans of the [Electronic Frontier Foundation](https://www.eff.org/).
+
 ## Origin, Authors, Copyright & Licenses
 
 Unless otherwise noted (either in this [/README.md](./README.md) or in the file's header comments) the contents of this repository are Copyright © 2020 by Blockchain Commons, LLC, and are [licensed](./LICENSE) under the [spdx:BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
