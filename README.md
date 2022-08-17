@@ -33,8 +33,9 @@ Specifications offer a bottom-up approach to advocacy, giving developers the too
 
 The following files are general overviews related to legislation.
 
-* [**Blockchain Legal Terminology & Definitions**](https://hackmd.io/Eat2gnYqT56HQStI63JCNg) — An overview of current usage.
 * [**Blockchain Commons Testimony**](https://github.com/BlockchainCommons/Testimony) — An (incomplete) listing of our testimony.
+* [**Blockchain Legal Terminology & Definitions**](https://hackmd.io/Eat2gnYqT56HQStI63JCNg) — An overview of current usage.
+* [**Blockchain Laws**](https://hackmd.io/5ec69mqLRaanS5A1IWBuMQ) — A rough listing of current laws.
 
 ## Legal Advocacy
 
