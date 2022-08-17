@@ -34,7 +34,7 @@ Specifications offer a bottom-up approach to advocacy: giving developers the too
 The following files are general overviews related to legislation.
 
 * [**Blockchain Legal Terminology & Definitions**](https://hackmd.io/Eat2gnYqT56HQStI63JCNg) — An overview of current usage.
-* [Blockchain Commons Testimony](https://github.com/BlockchainCommons/Testimony) — An (incomplete) listing of our testimony.
+* [**Blockchain Commons Testimony**](https://github.com/BlockchainCommons/Testimony) — An (incomplete) listing of our testimony.
 
 ## Legal Advocacy
 
@@ -48,7 +48,6 @@ While working with legislatures, we've also advocated for specific topics that t
 Unless otherwise noted (either in this [/README.md](./README.md) or in the file's header comments) the contents of this repository are Copyright © 2020 by Blockchain Commons, LLC, and are [licensed](./LICENSE) under the [spdx:BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
 
 In most cases, the authors, copyright, and license for each file reside in header comments in the source code. When it does not, we have attempted to attribute it accurately in the table below.
-
 
 ## Financial Support
 
