@@ -6,9 +6,14 @@
 
 Blockchain Commons isn't just about technological development. It also works to ensure that there's a solid legal foundation for our blockchain technologies. **Law & Advocacy** collects our work of this sort.
 
-## Law & Advocacy Files
+## Advocacy Articles
 
-* [Blockchain Legal Terminology & Definitions](https://hackmd.io/Eat2gnYqT56HQStI63JCNg)
+* [**Principal Authority: A New Perspective on Self-Sovereign Identity**](https://www.blockchaincommons.com/articles/Principal-Authority/) — A new legal foundation for self-sovereign identity in Wyoming.
+* [**Private Key Disclosure: A Needless Threat to Rights and Assets**](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/) — How courts are forcing disclosure of private keys, and why that's the wrong thing to do.
+
+## Legal Terminology
+
+* [**Blockchain Legal Terminology & Definitions**e](https://hackmd.io/Eat2gnYqT56HQStI63JCNg)
 
 ## Additional Information
 
