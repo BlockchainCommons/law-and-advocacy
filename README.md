@@ -8,7 +8,7 @@ Blockchain Commons isn't just about technological development. It also works to 
 
 ## Why Advocacy?
 
-Though much of Blockchain Commons' work focuses on technical specifications and libraries and apps that demonstrate those specification, the foundation of that work is ultimately advocacy. We want to create open & interoperable, secure & compassionate digital infrastructure. In other words, we want to create a _human_ and _humane_ internet.
+Though much of Blockchain Commons' work focuses on technical specifications and on libraries and apps that demonstrate those specification, the foundation of that work is ultimately advocacy. We want to create open & interoperable, secure & compassionate digital infrastructure. In other words, we want to create a _human_ and _humane_ internet.
 
 Many of our top advocacy goals appear on our [Vision page](https://www.blockchaincommons.com/vision.html). 
 
@@ -16,20 +16,20 @@ Most notably, we want to:
 
 * Define and advocate a new techno-social contract of decentralized infrastructure, based on human dignity, respect for the individual, and mutual benefit for all contributors.
 
-We don't want the internet to be built for the corporations, we want it to be guilt for the individuals, and for it to benefit everyone equally.
+We don't want the internet to be built for the corporations, we want it to be built for the individuals, and for it to benefit everyone equally.
 
 ## The Gordian Principles
 
-More of our [vision](https://www.blockchaincommons.com/vision.html) is embedded in our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles). We advocate for software that meets four primary goals:
+More of our [Vision](https://www.blockchaincommons.com/vision.html) is embedded in our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles). We advocate for software that meets four primary goals:
 
 * **Independence.** We want to safeguard user freedom from involuntary oversight or external control.
-* **Privacy.** We want to protect against coercion with non-correlation, privacy, and pseudonymity.
+* **Privacy.** We want to protect against coercion by advocating non-correlation, privacy, and pseudonymity.
 * **Resilience.** We want to protect against the likelihood of losing digital assets via any means.
 * **Openness.** We want to support open infrastructure that allow users to freely move their data among many apps.
 
 ## Legal Testimony
 
-Specifications offer a bottom-up approach to advocacy: giving developers the tools to make our vision of a human internet a reality. However, advocacy also requires a top-down approach: working with legislatures to ensure that laws reflect our goals and don't run counter to them. 
+Specifications offer a bottom-up approach to advocacy, giving developers the tools to make our vision of a human internet a reality. However, advocacy also requires a top-down approach: working with legislatures to ensure that laws reflect our goals and don't run counter to them. 
 
 The following files are general overviews related to legislation.
 
@@ -38,7 +38,7 @@ The following files are general overviews related to legislation.
 
 ## Legal Advocacy
 
-While working with legislatures, we've also advocated for specific topics that the law-makers were working on. Here's why they're important:
+While working with legislatures, we've also advocated for specific topics that the law-makers were working on. Here's a few notable topics and why they're important:
 
 * [**Principal Authority: A New Perspective on Self-Sovereign Identity**](https://www.blockchaincommons.com/articles/Principal-Authority/) — A new legal foundation for self-sovereign identity in Wyoming.
 * [**Private Key Disclosure: A Needless Threat to Rights and Assets**](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/) — How courts are forcing disclosure of private keys, and why that's the wrong thing to do.
