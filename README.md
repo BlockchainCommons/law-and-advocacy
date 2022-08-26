@@ -48,7 +48,7 @@ While working with legislatures, we've also advocated for specific topics that t
 
 We're thrilled that other organizations are advocating for similar visions.
 
-* [**COPA**](https://www.opencrypto.org/) We are [members of](https://www.blockchaincommons.com/partnerships/BCC-Joins-COPA/) the [Crypto Open Patent Alliance](https://www.opencrypto.org/).
+* [**COPA**](https://www.opencrypto.org/) — We are [members of](https://www.blockchaincommons.com/partnerships/BCC-Joins-COPA/) the [Crypto Open Patent Alliance](https://www.opencrypto.org/).
 * [**EFF**](https://www.eff.org/) — We are big fans of the [Electronic Frontier Foundation](https://www.eff.org/).
 
 ## Origin, Authors, Copyright & Licenses
