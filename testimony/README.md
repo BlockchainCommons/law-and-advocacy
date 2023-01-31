@@ -6,8 +6,8 @@ From time to time, the Blockchain Commons is called upon to testify about blockc
 
 | Number                    | Title         | Agency | Version | Owner                                                  | 
 |---------------------------|---------------|--------|-----|----------------------------------------------|
-| [BCT-2018-001](testimonies/bct-2018-001.md) | **9/19/18.** Engaging on Fund Innovation & Cryptocurrency-related Holdings | USA SEC | 1.0.0 | Christopher Allen |
-| [BCT-2021-001](testimonies/bct-2021-001.md) | **10/22/21.** DAO | Wyoming | 1.0.0 | Christopher Allen |
+| [BCT-2018-001](bct-2018-001.md) | **9/19/18.** Engaging on Fund Innovation & Cryptocurrency-related Holdings | USA SEC | 1.0.0 | Christopher Allen |
+| [BCT-2021-001](bct-2021-001.md) | **10/22/21.** DAO | Wyoming | 1.0.0 | Christopher Allen |
 
 _Also see our [Research](https://github.com/BlockchainCommons/Research/blob/master/README.md) and our [Wallet Improvement Proposals](https://github.com/BlockchainCommons/wips/blob/master/README.md)._
 
