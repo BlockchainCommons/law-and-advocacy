@@ -4,45 +4,45 @@
 
 ### _by Christopher Allen, et. al_
 
-Blockchain Commons isn't just about technological development. It also works to ensure that there's a solid legal foundation for our blockchain technologies. **Law & Advocacy** collects our work of this sort.
+**Blockchain Commons** advocates for the creation of open, interoperable, secure & compassionate digital infrastructure to enable people to control their own digital destiny and to maintain their human dignity online. Some of our work is technical, focused on the creation and usage of interoperable specifications, but some of our work is legislative, because the legal foundations for self-sovereign control of digital assets are just as important as the technical foundations.
 
-## Why Advocacy?
+## Creating a Legal Foundation
 
-Though much of Blockchain Commons' work focuses on technical specifications and on libraries and apps that demonstrate those specification, the foundation of that work is ultimately advocacy. We want to create open & interoperable, secure & compassionate digital infrastructure. In other words, we want to create a _human_ and _humane_ internet.
+We believe that it's crucial to create a legal foundation for digital rights. Our advocacy is thus focused on identifying legal underpinnings that will lead us to the secure, compassionate, self-sovereign digital infrastructure that we envision and then supporting the incorporation of those foundations into law.
 
-Many of our top advocacy goals appear on our [Vision page](https://www.blockchaincommons.com/vision.html). 
+To date, much of our work has been with the Wyoming lesiglature, who we believe is setting national precedent with their future-looking laws on digital assets and identity. We've supported their work to create two important foundations for self-sovereign digital control of assets:
 
-Most notably, we want to:
+* **Identity Definition.** [WY SF0039 (2021)](https://wyoleg.gov/Legislation/2021/SF0039) provided a foundational definition of digital identity that we found most crucial for its inclusion of "principal authority" as part of the core definition. Our article ["Principal Authority: A New Perspective on Self-Sovereign Identity"](https://www.blockchaincommons.com/articles/Principal-Authority/) explains the importance of this legal term and how it leads to self-sovereign identity.
+* **Private Key Protection.**[WY HB0086 (2023)](https://wyoleg.gov/Legislation/2023/HB0086) recognized private keys as being special and offered protections for them, which were previously being required by courts. Our article ["Private Key Disclosure: A Needless Threat to Rights and Assets"](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/) explains the importance as this, and how private keys are the building block for identity on the internet.
 
-* Define and advocate a new techno-social contract of decentralized infrastructure, based on human dignity, respect for the individual, and mutual benefit for all contributors.
+Together we believe these two bills lay out the crucial foundation to give users self-sovereign control of their digital selves and assets online. Clearly, there's lots more to do, including the laying of many more building blocks, but we're proud of these two successes and hope to see more like them in the future.
 
-We don't want the internet to be built for the corporations, we want it to be built for the individuals, and for it to benefit everyone equally.
+## Why Advocacy Continues to Be Important
 
-## The Gordian Principles
+Advocacy is one of the ways that we transform ideas like our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) into reality. Without them there are three major dangers:
 
-More of our [Vision](https://www.blockchaincommons.com/vision.html) is embedded in our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles). We advocate for software that meets four primary goals:
+1. That laws are encated that hand off digital identities and assets to corporations, not individuals.
+2. That laws are enacted that innately support less secure or less personal methods of asset control
+3. That laws are encated that ignore the requirements or dangers of digital assets and identity.
 
-* **Independence.** We want to safeguard user freedom from involuntary oversight or external control.
-* **Privacy.** We want to protect against coercion by advocating non-correlation, privacy, and pseudonymity.
-* **Resilience.** We want to protect against the likelihood of losing digital assets via any means.
-* **Openness.** We want to support open infrastructure that allow users to freely move their data among many apps.
+Obviously, we want the internet to support individuals, not corporations, so that everyone can benefit from it equally. But corporate cronyism may be the least of our problems. A bigger danger is that laws are written 
+
+ Work with Wyoming has been particularly important, advised on specifics of things like Gordian Principles under digital assets, but also property law doesn't work for digital identity, so we've been suggesting foundational stuff with intersection of tech & law: digital identity bill, principle authority, protecting private keys, WRDA
 
 ## Legal Testimony
 
-Specifications offer a bottom-up approach to advocacy, giving developers the tools to make our vision of a human internet a reality. However, advocacy also requires a top-down approach: working with legislatures to ensure that laws reflect our goals and don't run counter to them. 
-
-The following files are general overviews related to legislation.
+Much of our work toward creating these foundations can be found in our Testimony to Wyoming and other bodies:
 
 * [**Blockchain Commons Testimony**](testimony/README.md) — An (incomplete) listing of our testimony.
+
+## Other Legal Sources
+
+We've also created documents to help define the lay of the land at the current time.
+
 * [**Blockchain Legal Terminology & Definitions**](https://hackmd.io/Eat2gnYqT56HQStI63JCNg) — An overview of current usage.
 * [**Blockchain Laws**](https://hackmd.io/5ec69mqLRaanS5A1IWBuMQ) — A rough listing of current laws.
 
 ## Legal Advocacy
-
-While working with legislatures, we've also advocated for specific topics that the law-makers were working on. Here's a few notable topics and why they're important:
-
-* [**Principal Authority: A New Perspective on Self-Sovereign Identity**](https://www.blockchaincommons.com/articles/Principal-Authority/) — A new legal foundation for self-sovereign identity in Wyoming.
-* [**Private Key Disclosure: A Needless Threat to Rights and Assets**](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/) — How courts are forcing disclosure of private keys, and why that's the wrong thing to do.
 
 ## Other Organizations
 
