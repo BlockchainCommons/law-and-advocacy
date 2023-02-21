@@ -21,9 +21,9 @@ Together we believe these two bills lay down a crucial foundation to give users 
 
 Advocacy is one of the ways that we transform ideas like our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) and [Self-Sovereign Identity Principles](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) into reality. Without them there are three major dangers:
 
-1. That laws are encated that hand off digital identities and assets to corporations, not individuals.
+1. That laws are enacted that hand off digital identities and assets to corporations, not individuals.
 2. That laws are enacted that innately support less secure or less personal methods of asset control.
-3. That laws are encated that ignore the requirements or dangers of digital assets and identity.
+3. That laws are enacted that ignore the requirements or dangers of digital assets and identity.
 
 Obviously, we want the internet to support individuals, not corporations, so that everyone can benefit from it equally. But corporate cronyism may be the least of our problems. A bigger danger is that laws are written with the best of intentions that just don't work well with digital assets and identities. For example, there's been considerable disagreement over the last few years about whether property laws should apply to digital identities. We passionately disagree with this option, as identity is something much more personal than an item you can own, and so it's another example of where we need to get the foundation right. 
 
