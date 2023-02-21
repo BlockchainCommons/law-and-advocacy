@@ -13,13 +13,13 @@ We believe that it's critical to create a legal foundation for digital rights. O
 To date, much of our work has been with the Wyoming lesiglature, who we believe is setting national precedent with their future-looking work that codifies the intersection of law and identity. To date, we've supported their work ing creating two important foundations for the self-sovereign control of digital assets and identity online:
 
 * **Identity Definition.** [WY SF0039 (2021)](https://wyoleg.gov/Legislation/2021/SF0039) provided a foundational definition of digital identity that includes the concept of "principal authority" as part of the core definition. Our article ["Principal Authority: A New Perspective on Self-Sovereign Identity"](https://www.blockchaincommons.com/articles/Principal-Authority/) explains the importance of this legal term and how it leads to self-sovereign identity.
-* **Private Key Protection.**[WY HB0086 (2023)](https://wyoleg.gov/Legislation/2023/HB0086) recognized private keys as being special and offered protections for them, when they were previously being required by courts in many inappropriate situations. Our article ["Private Key Disclosure: A Needless Threat to Rights and Assets"](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/) explains the importance of this, and how private keys are the building block for identity on the internet.
+* **Private Key Protection.**[WY HB0086 (2023)](https://wyoleg.gov/Legislation/2023/HB0086) recognized private keys as being special and offered protections for them, when they were previously being required by courts in many inappropriate situations. Our article ["Private Key Disclosure: A Needless Threat to Rights and Assets"](https://bitcoinmagazine.com/legal/saving-bitcoin-private-keys-from-courts) [Bitcoin Magazine]  explains the importance of this, and how private keys are the building block for identity on the internet.
 
 Together we believe these two bills lay down a crucial foundation to give users self-sovereign control of their digital selves and assets online. However, there's lots more to do. We're working with the Wyoming leglislature on the concept of registered digital assets and also have offered our support to efforts in other states and countries. Ultimately, there are a lot more building blocks to lay, but we're proud of the successes to date.
 
 ## Why Advocacy Continues to Be Important
 
-Advocacy is one of the ways that we transform ideas like our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) and [Self-Sovereign Identity Principles](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) into reality. Without them there are three major dangers:
+Advocacy is one of the ways that we transform ideas like our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) and [Self-Sovereign Identity Principles](https://www.coindesk.com/markets/2016/04/27/the-path-to-self-sovereign-identity/) [Coindesk] into reality. Without them there are three major dangers:
 
 1. That laws are enacted that hand off digital identities and assets to corporations, not individuals.
 2. That laws are enacted that innately support less secure or less personal methods of asset control.
@@ -41,6 +41,10 @@ We've also created documents to help define the lay of the land at the current t
 
 * [**Blockchain Legal Terminology & Definitions**](https://hackmd.io/Eat2gnYqT56HQStI63JCNg) — An overview of current usage.
 * [**Blockchain Laws**](https://hackmd.io/5ec69mqLRaanS5A1IWBuMQ) — A rough listing of current laws.
+
+## Who We Are
+
+Blockchain Commons is proudly a “not-for-profit” social benefit corporation, domiciled in Wyoming but operating world-wide. We have a strong commitment to self-sovereign identity and to creating interoperable specifications: anyone can use or improve our tools, and no one can take them away.
 
 ## Other Organizations
 
