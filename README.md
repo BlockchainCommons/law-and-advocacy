@@ -4,13 +4,13 @@
 
 ### _by Christopher Allen, et. al_
 
-**Blockchain Commons** advocates for the creation of open, interoperable, secure & compassionate digital infrastructure to enable people to control their own digital destiny and to maintain their human dignity online. Some of our work is technical, focused on the creation and usage of interoperable specifications, but some of our work is legislative, because creating the legal foundations for self-sovereign control of digital assets is just as important as building the technical foundations.
+**Blockchain Commons** advocates for the creation of open, interoperable, secure & compassionate digital infrastructure to enable people to control their own digital destiny and to maintain their human dignity online. Some of our work is technical, focused on the creation and usage of interoperable specifications, but some of our work is legislative, because creating the legal foundations for self-sovereign control of digital assets and identity online is just as important as building the technical foundations.
 
 ## Creating a Legal Foundation
 
 We believe that it's critical to create a legal foundation for digital rights. Our advocacy is thus focused on identifying legal underpinnings that will lead us to the secure, compassionate, self-sovereign digital infrastructure that we envision and then supporting the incorporation of those foundations into law.
 
-To date, much of our work has been with the Wyoming lesiglature, who we believe is setting national precedent with their future-looking work that codifies the intersection of law and identity. To date, we've supported their work ing creating two important foundations for the self-sovereign control of digital assets:
+To date, much of our work has been with the Wyoming lesiglature, who we believe is setting national precedent with their future-looking work that codifies the intersection of law and identity. To date, we've supported their work ing creating two important foundations for the self-sovereign control of digital assets and identity online:
 
 * **Identity Definition.** [WY SF0039 (2021)](https://wyoleg.gov/Legislation/2021/SF0039) provided a foundational definition of digital identity that includes the concept of "principal authority" as part of the core definition. Our article ["Principal Authority: A New Perspective on Self-Sovereign Identity"](https://www.blockchaincommons.com/articles/Principal-Authority/) explains the importance of this legal term and how it leads to self-sovereign identity.
 * **Private Key Protection.**[WY HB0086 (2023)](https://wyoleg.gov/Legislation/2023/HB0086) recognized private keys as being special and offered protections for them, when they were previously being required by courts in many inappropriate situations. Our article ["Private Key Disclosure: A Needless Threat to Rights and Assets"](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/) explains the importance of this, and how private keys are the building block for identity on the internet.
@@ -23,9 +23,9 @@ Advocacy is one of the ways that we transform ideas like our [Gordian Principles
 
 1. That laws are enacted that hand off digital identities and assets to corporations, not individuals.
 2. That laws are enacted that innately support less secure or less personal methods of asset control.
-3. That laws are enacted that ignore the requirements or dangers of digital assets and identity.
+3. That laws are enacted that ignore the requirements or dangers of digital assets and identity online.
 
-Obviously, we want the internet to support individuals, not corporations, so that everyone can benefit from it equally. But corporate cronyism may be the least of our problems. A bigger danger is that laws are written with the best of intentions that just don't work well with digital assets and identities. For example, there's been considerable disagreement over the last few years about whether property laws should apply to digital identities. We passionately disagree with this option, as identity is something much more personal than an item you can own, and so it's another example of where we need to get the foundation right. 
+Obviously, we want the internet to support individuals, not corporations, so that everyone can benefit from it equally. But corporate cronyism may be the least of our problems. A bigger danger is that laws are written with the best of intentions that just don't work well with digital assets and identity online. For example, there's been considerable disagreement over the last few years about whether property laws should apply to digital identities. We passionately disagree with this option, as identity is something much more personal than an item you can own, and so it's another example of where we need to get the foundation right. 
 
 Work with Wyoming continues to be very important both because of their strong beliefs in individual liberty and their foundational, precedent-setting work.
 
