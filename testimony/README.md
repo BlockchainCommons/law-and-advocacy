@@ -13,7 +13,7 @@ From time to time, the Blockchain Commons is called upon to testify about blockc
 | [BCT-2020-004](bct-2020-004.md) | **9/23/20.** Digital Identity, DAOs, KYC. | Wyoming | 1.0.0 | Christopher Allen |
 | [BCT-2020-005](bct-2020-005.md) | **11/2/20.** Digital Identity, DAOs, Private Key Protection, Sim Card Identity Protection. | Wyoming | 1.0.0 | Christopher Allen |
 | [BCT-2020-006](bct-2020-006.md) | **12/16/20.** Digital Identity, DAOs, Private Key Protection, Sim Card Identity Protection, Data Trusts, Division of Banking. | Wyoming | 1.0.0 | Christopher Allen |
-| [BCT-2021-001](bct-2021-001.md) | **5/27/21.** Digital Identity, DAOs. | Wyoming | 1.0.0 | Christopher Allen |
+| [BCT-2021-001](bct-2021-001.md) | **5/27/21.** Digital Identity, DAOs, Open Courseware. | Wyoming | 1.0.0 | Christopher Allen |
 | [BCT-2021-002](bct-2021-002.md) | **9/21/21.** Digital Identity, DAOs, E-Residency. | Wyoming | 1.0.0 | Christopher Allen |
 | [BCT-2021-003](bct-2021-003.md) | **10/22/21.** DAOs. | Wyoming | 1.0.0 | Christopher Allen |
 
