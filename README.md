@@ -8,7 +8,13 @@
 
 ## Current News
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am quite proud that the Wyoming Legislature has passed a bill prohibiting compelled disclosure of private keys—next step the Governor! I have been fighting for this since 2018. For context, see my article on this at: <a href="https://t.co/szdacOQPCZ">https://t.co/szdacOQPCZ</a> Thank you <a href="https://twitter.com/rothfuss?ref_src=twsrc%5Etfw">@rothfuss</a> &amp; <a href="https://twitter.com/JaredSOlsen?ref_src=twsrc%5Etfw">@JaredSOlsen</a>!</p>&mdash; Christopher Allen (@ChristopherA@mastodon.social) (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/1626243594364526592?ref_src=twsrc%5Etfw">February 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+**2/16/23:** We are thrilled that both chambers of the Wyoming Legislature have passed the ["Disclosure of Private Cryptographic Keys"](https://wyoleg.gov/Legislation/2023/HB0086), bill (protecting private keys from disclosure!). 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am quite proud that the Wyoming Legislature has passed a bill prohibiting compelled disclosure of private keys—next step the Governor! I have been fighting for this since 2018. For context, see my article on this at: <a href="https://t.co/szdacOQPCZ">https://t.co/szdacOQPCZ</a> Thank you <a href="https://twitter.com/rothfuss?ref_src=twsrc%5Etfw">@rothfuss</a> &amp; <a href="https://twitter.com/JaredSOlsen?ref_src=twsrc%5Etfw">@JaredSOlsen</a>!</p>&mdash; Christopher Allen (@ChristopherA@mastodon.social) (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/1626243594364526592?ref_src=twsrc%5Etfw">February 16, 2023</a></blockquote> 
+
+But as Senator Rothfuss reminds us, there's more to do:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you <a href="https://twitter.com/ChristopherA?ref_src=twsrc%5Etfw">@ChristopherA</a> for all of your work with the Select Committee on this topic! It took a few years...<br><br>Now let&#39;s get back to work on our Digital Identity framework. <a href="https://t.co/FS3JCC0qYk">https://t.co/FS3JCC0qYk</a></p>&mdash; WY Sen. Chris Rothfuss (@rothfuss) <a href="https://twitter.com/rothfuss/status/1626270357614387200?ref_src=twsrc%5Etfw">February 16, 2023</a></blockquote>
 
 ## Creating a Legal Foundation
 
