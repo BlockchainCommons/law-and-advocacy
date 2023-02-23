@@ -69,6 +69,14 @@ Unless otherwise noted (either in this [/README.md](./README.md) or in the file'
 
 In most cases, the authors, copyright, and license for each file reside in header comments in individual files.
 
+### Project Sponsors
+
+Thanks to our project sponsors for their support of `$projectname`:
+
+![](https://www.blockchaincommons.com/images/sponsors/dcd-logo.png)
+
+[Digital Contract Design](https://contract.design/) creates Contracts with Trust Minimization. Since 2017, unsecured loans of dollars have required large amounts of coin to be used as collateral with escrow agents, requiring trust in the escrow agent. DCD is working toward a variety of smart contracts that secure collateral on the blockchain (or a sidechain), based on receipt of triggering signatures from a reliable BTCUSD price oracle.
+
 ## Financial Support
 
 **Law & Advocacy** is a project of [Blockchain Commons](https://www.blockchaincommons.com/). We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. Our work is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open tools, technologies, and techniques that sustain and advance blockchain and internet security infrastructure and promote an open web.
