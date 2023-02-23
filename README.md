@@ -73,7 +73,7 @@ In most cases, the authors, copyright, and license for each file reside in heade
 
 Thanks to our project sponsors for their support of **Law & Advocacy**:
 
-![](https://www.blockchaincommons.com/images/sponsors/dcd-logo.png)
+<img src="https://www.blockchaincommons.com/images/sponsors/dcd-logo.png" width=50%>
 
 [Digital Contract Design](https://contract.design/) creates Contracts with Trust Minimization. Since 2017, unsecured loans of dollars have required large amounts of coin to be used as collateral with escrow agents, requiring trust in the escrow agent. DCD is working toward a variety of smart contracts that secure collateral on the blockchain (or a sidechain), based on receipt of triggering signatures from a reliable BTCUSD price oracle.
 
