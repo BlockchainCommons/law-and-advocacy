@@ -71,7 +71,7 @@ In most cases, the authors, copyright, and license for each file reside in heade
 
 ### Project Sponsors
 
-Thanks to our project sponsors for their support of `$projectname`:
+Thanks to our project sponsors for their support of **Law & Advocacy**:
 
 ![](https://www.blockchaincommons.com/images/sponsors/dcd-logo.png)
 
