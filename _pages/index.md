@@ -1,8 +1,16 @@
-# Law & Advocacy
-
-<!--Guidelines: https://github.com/BlockchainCommons/secure-template/wiki -->
-
-### _by Christopher Allen, et. al_
+---
+cover: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /assets/images/qr-background.jpg
+  og_image: /images/bcc-card.jpg
+title: Blockchain Commons Advocacy
+hide_description: true
+classes:
+  - wide
+permalink: /index.html
+---
 
 **Blockchain Commons** advocates for the creation of open, interoperable, secure & compassionate digital infrastructure to enable people to control their own digital destiny and to maintain their human dignity online. Some of our work is technical, focused on the creation and usage of interoperable specifications, but some of our work is legislative, because creating a legal foundation for self-sovereign control of digital assets and identity online is just as important as building a technical foundation.
 
