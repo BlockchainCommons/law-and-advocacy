@@ -18,16 +18,16 @@ From time to time, the Blockchain Commons is called upon to testify about blockc
 
 | Number                    | Title         | Agency | Version | Owner                                                  | 
 |---------------------------|---------------|--------|-----|----------------------------------------------|
-| [BTC&#8209;2021&#8209;003](bct-2021-003.md) | **10/22/21.** DAOs. | Wyoming | 1.0.0 | Christopher Allen |
-| [BTC&#8209;2021&#8209;002](bct-2021-002.md) | **9/21/21.** Digital Identity, DAOs, E-Residency. | Wyoming | 1.0.0 | Christopher Allen |
-| [BTC&#8209;2021&#8209;001](bct-2021-001.md) | **5/27/21.** Digital Identity, DAOs, Open Courseware. | Wyoming | 1.0.0 | Christopher Allen |
-| [BTC&#8209;2020&#8209;006](bct-2020-006.md) | **12/16/20.** Digital Identity, DAOs, Private Key Protection, Sim Card Identity Protection, Data Trusts, Division of Banking. | Wyoming | 1.0.0 | Christopher Allen |
-| [BTC&#8209;2020&#8209;005](bct-2020-005.md) | **11/2/20.** Digital Identity, DAOs, Private Key Protection, Sim Card Identity Protection. | Wyoming | 1.0.0 | Christopher Allen |
-| [BTC&#8209;2020&#8209;004](bct-2020-004.md) | **9/23/20.** Digital Identity, DAOs, KYC. | Wyoming | 1.0.0 | Christopher Allen |
-| [BTC&#8209;2020&#8209;003](bct-2020-003.md) | **7/27/20.** Digital Identity, DAOs. | Wyoming | 1.0.0 | Christopher Allen |
-| [BTC&#8209;2020&#8209;002](bct-2020-002.md) | **6/12/20.** Digital Identity. | Wyoming | 1.0.0 | Christopher Allen |
-| [BTC&#8209;2020&#8209;001](bct-2020-001.md) | **5/22/20.** Progress on 2019-HB0070; Digital Asset Property & Custody. | Wyoming | 1.0.0 | Christopher Allen |
-| [BTC&#8209;2018&#8209;001](bct-2018-001.md) | **9/19/18.** Engaging on Fund Innovation & Cryptocurrency-related Holdings. | USA SEC | 1.0.0 | Christopher Allen |
+| [BTC&#8209;2021&#8209;003](bct-2021-003.md) | **10/22/21.** DAOs. | Wyoming | 1.0.0 | Christopher&nbsp;Allen |
+| [BTC&#8209;2021&#8209;002](bct-2021-002.md) | **9/21/21.** Digital Identity, DAOs, E-Residency. | Wyoming | 1.0.0 | Christopher&nbsp;Allen |
+| [BTC&#8209;2021&#8209;001](bct-2021-001.md) | **5/27/21.** Digital Identity, DAOs, Open Courseware. | Wyoming | 1.0.0 | Christopher&nbsp;Allen |
+| [BTC&#8209;2020&#8209;006](bct-2020-006.md) | **12/16/20.** Digital Identity, DAOs, Private Key Protection, Sim Card Identity Protection, Data Trusts, Division of Banking. | Wyoming | 1.0.0 | Christopher&nbsp;Allen |
+| [BTC&#8209;2020&#8209;005](bct-2020-005.md) | **11/2/20.** Digital Identity, DAOs, Private Key Protection, Sim Card Identity Protection. | Wyoming | 1.0.0 | Christopher&nbsp;Allen |
+| [BTC&#8209;2020&#8209;004](bct-2020-004.md) | **9/23/20.** Digital Identity, DAOs, KYC. | Wyoming | 1.0.0 | Christopher&nbsp;Allen |
+| [BTC&#8209;2020&#8209;003](bct-2020-003.md) | **7/27/20.** Digital Identity, DAOs. | Wyoming | 1.0.0 | Christopher&nbsp;Allen |
+| [BTC&#8209;2020&#8209;002](bct-2020-002.md) | **6/12/20.** Digital Identity. | Wyoming | 1.0.0 | Christopher&nbsp;Allen |
+| [BTC&#8209;2020&#8209;001](bct-2020-001.md) | **5/22/20.** Progress on 2019-HB0070; Digital Asset Property & Custody. | Wyoming | 1.0.0 | Christopher&nbsp;Allen |
+| [BTC&#8209;2018&#8209;001](bct-2018-001.md) | **9/19/18.** Engaging on Fund Innovation & Cryptocurrency-related Holdings. | USA SEC | 1.0.0 | Christopher&nbsp;Allen |
 
 _Also see our [Research](https://github.com/BlockchainCommons/Research/blob/master/README.md) and our [Wallet Improvement Proposals](https://github.com/BlockchainCommons/wips/blob/master/README.md)._
 
@@ -104,7 +104,7 @@ The following people directly contributed to this repository. You can add your n
 
 | Name              | Role                | Github                                            | Email                                 | GPG Fingerprint                                    |
 | ----------------- | ------------------- | ------------------------------------------------- | ------------------------------------- | -------------------------------------------------- |
-| Christopher Allen | Principal Architect | [@ChristopherA](https://github.com/ChristopherA) | \<ChristopherA@LifeWithAlacrity.com\> | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED |
+| Christopher&nbsp;Allen | Principal Architect | [@ChristopherA](https://github.com/ChristopherA) | \<ChristopherA@LifeWithAlacrity.com\> | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED |
 
 ## Responsible Disclosure
 
@@ -120,6 +120,6 @@ The following keys may be used to communicate sensitive information to developer
 
 | Name              | Fingerprint                                        |
 | ----------------- | -------------------------------------------------- |
-| Christopher Allen | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED |
+| Christopher&nbsp;Allen | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED |
 
 You can import a key by running the following command with that individual’s fingerprint: `gpg --recv-keys "<fingerprint>"` Ensure that you put quotes around fingerprints that contain spaces.
