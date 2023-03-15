@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Blockchain Commons
+title: Blockchain Commons Advocacy
 email: team@blockchaincommons.com
-description: Blockchain Commons supports the creation of open & interoperable, secure & compassionate digital infrastructure.
+description: Blockchain Commons advocates for the creation of open & interoperable, secure & compassionate digital infrastructure.
 twitter:
   username: BlockchainComns
 minimal_mistakes_skin: dark
@@ -28,7 +28,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # https:/en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -56,8 +56,8 @@ plugins:
 
 author:
   name   : "Blockchain Commons"
-  avatar : "/images/bc-logo-white-avatar.png"
-  bio    : "Creating Open & Interoperable, Secure & Compassionate Digital Infrastructure"
+  avatar : "/assets/images/bc-logo-white-avatar.png"
+  bio    : "Advocating for Open & Interoperable, Secure & Compassionate Digital Infrastructure"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
