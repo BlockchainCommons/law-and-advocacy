@@ -1,4 +1,16 @@
-# Blockchain Commons Testimony
+---
+cover: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /assets/images/qr-background.jpg
+  og_image: /images/bcc-card.jpg
+title: Blockchain Commons Testimony
+hide_description: true
+classes:
+  - wide
+permalink: /testimony/
+---
 
 From time to time, the Blockchain Commons is called upon to testify about blockchain technology before local, state, and federal agencies who are making decisions and laws regarding the future of these technologies. This repo contains any such testimony that is public.
 
