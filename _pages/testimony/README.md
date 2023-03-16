@@ -29,5 +29,4 @@ From time to time, the Blockchain Commons is called upon to testify about blockc
 | [BTC&#8209;2020&#8209;001](bct-2020-001) | **5/22/20.** | Progress on 2019-HB0070; Digital Asset Property & Custody. | Wyoming | 1.0.0 | Christopher&nbsp;Allen |
 | [BTC&#8209;2018&#8209;001](bct-2018-001) | **9/19/18.** | Engaging on Fund Innovation & Cryptocurrency-related Holdings. | USA SEC | 1.0.0 | Christopher&nbsp;Allen |
 
-_Also see our [Research](https://github.com/BlockchainCommons/Research/blob/master/README.md) and our [Wallet Improvement Proposals](https://github.com/BlockchainCommons/wips/blob/master/README.md)._
 
