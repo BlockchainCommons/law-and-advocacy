@@ -17,12 +17,16 @@ permalink: /
 ## Current News
 
 **2/16/23:** We are thrilled that both chambers of the Wyoming Legislature have passed the ["Disclosure of Private Cryptographic Keys"](https://wyoleg.gov/Legislation/2023/HB0086), bill (protecting private keys from disclosure!). 
+{: .notice--info}
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am quite proud that the Wyoming Legislature has passed a bill prohibiting compelled disclosure of private keys—next step the Governor! I have been fighting for this since 2018. For context, see my article on this at: <a href="https://t.co/szdacOQPCZ">https://t.co/szdacOQPCZ</a> Thank you <a href="https://twitter.com/rothfuss?ref_src=twsrc%5Etfw">@rothfuss</a> &amp; <a href="https://twitter.com/JaredSOlsen?ref_src=twsrc%5Etfw">@JaredSOlsen</a>!</p>&mdash; Christopher Allen (@ChristopherA@mastodon.social) (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/1626243594364526592?ref_src=twsrc%5Etfw">February 16, 2023</a></blockquote> 
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 But as Senator Rothfuss reminds us, there's more to do:
+{: .notice--info}
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you <a href="https://twitter.com/ChristopherA?ref_src=twsrc%5Etfw">@ChristopherA</a> for all of your work with the Select Committee on this topic! It took a few years...<br><br>Now let&#39;s get back to work on our Digital Identity framework. <a href="https://t.co/FS3JCC0qYk">https://t.co/FS3JCC0qYk</a></p>&mdash; WY Sen. Chris Rothfuss (@rothfuss) <a href="https://twitter.com/rothfuss/status/1626270357614387200?ref_src=twsrc%5Etfw">February 16, 2023</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Creating a Legal Foundation
 
@@ -71,22 +75,10 @@ We're thrilled that other organizations are advocating for similar visions.
 * [**COPA**](https://www.opencrypto.org/) — We are [members of](https://www.blockchaincommons.com/partnerships/BCC-Joins-COPA/) the [Crypto Open Patent Alliance](https://www.opencrypto.org/).
 * [**EFF**](https://www.eff.org/) — We are big fans of the [Electronic Frontier Foundation](https://www.eff.org/).
 
-## Origin, Authors, Copyright & Licenses
-
-Unless otherwise noted (either in this [/README.md](./README.md) or in the file's header comments) the contents of this repository are Copyright © 2023 by Blockchain Commons, LLC, and are [licensed](./LICENSE) under the [spdx:BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
-
-In most cases, the authors, copyright, and license for each file reside in header comments in individual files.
-
-### Project Sponsors
+## Project Sponsors
 
 Thanks to our project sponsors for their support of **Law & Advocacy**:
 
 <img src="https://www.blockchaincommons.com/images/sponsors/dcd-logo.png" width=50%>
 
 [Digital Contract Design](https://contract.design/) creates Contracts with Trust Minimization. Since 2017, unsecured loans of dollars have required large amounts of coin to be used as collateral with escrow agents, requiring trust in the escrow agent. DCD is working toward a variety of smart contracts that secure collateral on the blockchain (or a sidechain), based on receipt of triggering signatures from a reliable BTCUSD price oracle.
-
-## Financial Support
-
-**Law & Advocacy** is a project of [Blockchain Commons](https://www.blockchaincommons.com/). We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. Our work is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open tools, technologies, and techniques that sustain and advance blockchain and internet security infrastructure and promote an open web.
-
-To financially support further development of **Law & Advocacy** and other projects, please consider becoming a Patron of Blockchain Commons through ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
