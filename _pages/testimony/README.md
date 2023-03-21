@@ -18,7 +18,7 @@ From time to time, the Blockchain Commons is called upon to testify about blockc
 
 | Number                    | Date | Topics         | Agency | Testimony                                                  | 
 |---------------------------|---------------|----|----|----------------------------------------------|
-| [BTC&#8209;2023&#8209;001](bct-2023-001) | **2/15/23.** | Blockchain Opportunities for Small Business Administration. | GAO | Christopher&nbsp;Allen |
+| [BTC&#8209;2023&#8209;001](bct-2023-001) | **2/15/23.** | Blockchain Opportunities for Small Business Administration. | USA&nbsp;GAO | Christopher&nbsp;Allen |
 | [BTC&#8209;2022&#8209;003](bct-2022-003) | **11/18/22.** | WRDAs. | Wyoming | Christopher&nbsp;Allen |
 | [BTC&#8209;2022&#8209;002](bct-2022-002) | **9/19/22.** | Private Key Protections, WRDAs. | Wyoming | Christopher&nbsp;Allen |
 | [BTC&#8209;2022&#8209;001](bct-2022-001) | **6/14/22.** | E-Residency, Private Key Protections, WRDAs. | Wyoming | Christopher&nbsp;Allen |
