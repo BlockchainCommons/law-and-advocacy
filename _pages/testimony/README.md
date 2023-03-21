@@ -29,7 +29,7 @@ From time to time, the Blockchain Commons is called upon to testify about blockc
 | [BTC&#8209;2021&#8209;002](bct-2021-002) | **5/27/21.** | Digital Identity, DAOs, Open Courseware. | Wyoming | Christopher&nbsp;Allen |
 | [BTC&#8209;2021&#8209;001](bct-2021-001) | **2/7/21.** | HB 1268 & HCR 3024 (Banking & Finances). | North&nbsp;Dakota | Christopher&nbsp;Allen |
 | [BTC&#8209;2020&#8209;007](bct-2020-007) | **12/16/20.** | Digital Identity, DAOs, Private Key Protection, Sim Card Identity Protection, Data Trusts, Division of Banking. | Wyoming | Christopher&nbsp;Allen |
-| [BTC&#8209;2020&#8209;006](bct-2020-006 | **11/2/20.** | Digital Identity, DAOs, Private Key Protection, Sim Card Identity Protection. | Wyoming | Christopher&nbsp;Allen |
+| [BTC&#8209;2020&#8209;006](bct-2020-006) | **11/2/20.** | Digital Identity, DAOs, Private Key Protection, Sim Card Identity Protection. | Wyoming | Christopher&nbsp;Allen |
 | [BTC&#8209;2020&#8209;005](bct-2020-005) | **9/23/20.** | Digital Identity, DAOs, KYC. | Wyoming | Christopher&nbsp;Allen |
 | [BTC&#8209;2020&#8209;004](bct-2020-004) | **7/27/20.** | Digital Identity, DAOs. | Wyoming | Christopher&nbsp;Allen |
 | [BTC&#8209;2020&#8209;003](bct-2020-003) | **6/12/20.** | Digital Identity. | Wyoming | Christopher&nbsp;Allen |
