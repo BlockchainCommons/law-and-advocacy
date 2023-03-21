@@ -34,6 +34,7 @@ From time to time, the Blockchain Commons is called upon to testify about blockc
 | [BTC&#8209;2020&#8209;004](bct-2020-004) | **7/27/20.** | Digital Identity, DAOs. | Wyoming | Christopher&nbsp;Allen |
 | [BTC&#8209;2020&#8209;003](bct-2020-003) | **6/12/20.** | Digital Identity. | Wyoming | Christopher&nbsp;Allen |
 | [BTC&#8209;2020&#8209;002](bct-2020-002) | **5/22/20.** | Progress on 2019-HB0070; Digital Asset Property & Custody. | Wyoming | Christopher&nbsp;Allen |
+| [BTC&#8209;2020&#8209;001](bct-2020-001) | **5/5/20.** | Verifiable Credentials & Medical Test Results | California | Christopher&nbsp;Allen |
 | [BTC&#8209;2018&#8209;001](bct-2018-001) | **9/19/18.** | Engaging on Fund Innovation & Cryptocurrency-related Holdings. | USA SEC | Christopher&nbsp;Allen |
 
 
