@@ -19,7 +19,7 @@ From time to time, the Blockchain Commons is called upon to testify about blockc
 | Number                    | Date | Topics         | Agency | Owner                                                  | 
 |---------------------------|---------------|----|----|----------------------------------------------|
 | [BTC&#8209;2022&#8209;001](bct-2022-001) | **6/14/22.** | E-Residency, Private Key Protections, WRDAs. | Wyoming | Christopher&nbsp;Allen |
-| [BTC&#8209;2021&#8209;004](bct-2021-004) | **12/9/21.** | E-Residency. | Wyoming | Christopher&nbsp;Allen |
+| [BTC&#8209;2021&#8209;005](bct-2021-005) | **12/9/21.** | E-Residency. | Wyoming | Christopher&nbsp;Allen |
 | [BTC&#8209;2021&#8209;003](bct-2021-003) | **10/22/21.** | DAOs. | Wyoming | Christopher&nbsp;Allen |
 | [BTC&#8209;2021&#8209;002](bct-2021-002) | **9/21/21.** | Digital Identity, DAOs, E-Residency. | Wyoming | Christopher&nbsp;Allen |
 | [BTC&#8209;2021&#8209;001](bct-2021-001) | **5/27/21.** | Digital Identity, DAOs, Open Courseware. | Wyoming | Christopher&nbsp;Allen |
