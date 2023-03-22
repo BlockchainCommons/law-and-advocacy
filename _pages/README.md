@@ -16,7 +16,7 @@ permalink: /
 
 ## Current News
 
-* **2/22/23.** [Wyoming Passes Private Key Protection & Digital Asset Registration Laws](https://www.blockchaincommons.com/articles/PrivateKeyWRDABills/)
+* **2/22/23.** [Wyoming Passes Private Key Protection & Digital Asset Registration Laws](https://www.blockchaincommons.com/news/PrivateKeyWRDABills/)
 
 <table width="100%">
   <tr>
