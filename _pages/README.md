@@ -88,3 +88,5 @@ Thanks to our project sponsors for their support of **Law & Advocacy**:
 ![](https://www.blockchaincommons.com/images/sponsors/dcd-logo.png)
 
 [Digital Contract Design](https://contract.design/) creates Contracts with Trust Minimization. Since 2017, unsecured loans of dollars have required large amounts of coin to be used as collateral with escrow agents, requiring trust in the escrow agent. DCD is working toward a variety of smart contracts that secure collateral on the blockchain (or a sidechain), based on receipt of triggering signatures from a reliable BTCUSD price oracle.
+
+If you want to support Blockchain Commons' advocacy work, please [become a sponsor](https://github.com/sponsors/BlockchainCommons).
