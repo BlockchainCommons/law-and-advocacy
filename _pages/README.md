@@ -30,6 +30,8 @@ permalink: /
     </td>
   </tr>
 </table>
+
+Blockchain Commons will be continuing its advocacy work in 2023. We are hoping to bring some of these innovations from Wyoming to other states and countries. We are also hoping to continue work with [Principal Authority as a model for digital identity](https://www.blockchaincommons.com/articles/Principal-Authority/) by extending the protections of Agency Law and the Laws of Custom to better cover digital identity and assets. 
     
 ## Creating a Legal Foundation
 
