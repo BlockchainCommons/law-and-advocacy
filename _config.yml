@@ -65,7 +65,7 @@ author:
     - label: "Discussions"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BlockchainCommons/Community/discussions"
-    - label: "Sponsor Our Advocacy"
+    - label: "Sponsor Advocacy"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sponsors/BlockchainCommons"
     - label: "Twitter"
