@@ -3,3 +3,14 @@ main:
     url: /testimony/
   - title: "About"
     url: https://www.blockchaincommons.com/about.html
+sites:
+  - title: Blockchain Commons Sites
+    children:
+    - title: "Main Site"
+      url: https://www.blockchaincommons.com
+    - title: "Advocacy"
+      url: https://advocacy.blockchaincommons.com
+    - title: "Developers"
+      url: https://developer.blockchaincommons.com
+    - title: "#SmartCustody"
+      url: https://www.smartcustody.com
