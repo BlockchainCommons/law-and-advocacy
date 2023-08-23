@@ -10,6 +10,8 @@ hide_description: true
 classes:
   - wide
 permalink: /
+sidebar:
+  nav: sites
 ---
 
 **Blockchain Commons** advocates for the creation of open, interoperable, secure & compassionate digital infrastructure, to enable people to control their own digital destiny and to maintain their human dignity online. Much of our work is technical, focused on the creation and use of interoperable specifications, but other work is legislative, because creating a legal foundation for self-sovereign control of digital assets and identity online is just as important as building that technical foundation.
