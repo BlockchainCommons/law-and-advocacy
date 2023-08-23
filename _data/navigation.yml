@@ -1,8 +1,6 @@
 main:
   - title: "Testimony"
     url: /testimony/
-  - title: "About"
-    url: https://www.blockchaincommons.com/about.html
 sites:
   - title: Blockchain Commons Sites
     children:
