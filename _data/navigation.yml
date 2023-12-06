@@ -1,4 +1,6 @@
 main:
+  - title: "Articles"
+    url: /articles/
   - title: "Testimony"
     url: /testimony/
 sites:
