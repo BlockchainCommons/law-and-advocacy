@@ -32,6 +32,6 @@ Advocacy includes writing essays arguing for laws, technologies, and architectur
 ## Self-Sovereignty Advocacy Articles
 
 * [**The Origins of Self-Sovereign Identity**](https://www.blockchaincommons.com/musings/origins-SSI/) — Founding principles of self-sovereign identity, some of which are now being neglected.
-* [**Principal Authority: A New Perspective on Self-Sovereign Identity**](https://www.blockchaincommons.com/articles/Principal-Authority/) — Creating a legal framework for self-sovereign digital identity.
 * [**The Path to Self-Sovereign Identity**](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/) — The original overview and principles for self-sovereign identity.
-* [**Self-Sovereign Computing**](https://www.blockchaincommons.com/articles/self-sovereign-computing/) — Abandoning the paradigm of self-sovereignty so that you can be your own captain in the digital world.
+* [**Principal Authority: A New Perspective on Self-Sovereign Identity**](https://www.blockchaincommons.com/articles/Principal-Authority/) — Creating a legal framework for self-sovereign digital identity.
+* [**Self-Sovereign Computing**](https://www.blockchaincommons.com/articles/self-sovereign-computing/) — Expanding the paradigm of self-sovereignty so that you can be your own captain in the digital world.
