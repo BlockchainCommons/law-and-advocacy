@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Blockchain Commons Advocacy
+title: Advocacy Resources
 email: team@blockchaincommons.com
 description: Blockchain Commons advocates for the creation of open & interoperable, secure & compassionate digital infrastructure.
 twitter:
