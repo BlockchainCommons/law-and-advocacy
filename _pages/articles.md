@@ -11,7 +11,7 @@ classes:
   - wide
 permalink: /articles/
 sidebar:
-  nav: sites
+  nav: subpages
 ---
 
 Advocacy includes writing essays arguing for laws, technologies, and architectures that we think are crucial to preserving human dignity, human rights, and privacy on the internet. Here are some of our most important advocacy articles.
