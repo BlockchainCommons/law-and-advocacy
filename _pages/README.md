@@ -16,7 +16,17 @@ sidebar:
 
 **Blockchain Commons** advocates for the creation of open, interoperable, secure & compassionate digital infrastructure, to enable people to control their own digital destiny and to maintain their human dignity online. Much of our work is technical, focused on the creation and use of interoperable specifications, but other work is legislative, because creating a legal foundation for self-sovereign control of digital assets and identity online is just as important as building that technical foundation.
 
-## Current News
+## Recent Articles
+
+_A lot of our recent advocacy articles focuses on overidentification, which can literally be an existential danger for many._
+
+* **3/27/24.** [Foremembrance Day 2024 Presentation](https://www.blockchaincommons.com/videos/Foremembrance2024/)
+* **11/21/23.** [Echoes from History II: The Dangers of eIDAS](https://www.blockchaincommons.com/articles/eidas/)
+* **11/15/23.** [Echoes from History: Designing Self-Sovereign Identity with Care](https://www.blockchaincommons.com/articles/echoes-history/)
+
+## Recent Legislative Work
+
+_Much of our legislative work to date has been with the Wyoming Select Committe on Blockchain, who is leading the United States in the codification of digital rights._
 
 * **2/22/23.** [Wyoming Passes Private Key Protection & Digital Asset Registration Laws](https://www.blockchaincommons.com/news/PrivateKeyWRDABills/)
 
@@ -32,8 +42,6 @@ sidebar:
     </td>
   </tr>
 </table>
-
-Blockchain Commons will be continuing its advocacy work in 2023. We are hoping to bring some of these innovations from Wyoming to other states and countries. We are also hoping to continue work with [Principal Authority as a model for digital identity](https://www.blockchaincommons.com/articles/Principal-Authority/) by extending the protections of Agency Law and the Laws of Custom to better cover digital identity and assets. 
     
 ## Creating a Legal Foundation
 
