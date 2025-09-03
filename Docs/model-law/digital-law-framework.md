@@ -3,7 +3,7 @@
 
 *By Christopher Allen*
 
-I am a technologist, not a lawyer or legislator. My perspective comes from decades designing cryptographic systems that millions use daily - including TLS 1.0, which secures web communications, and contributions to decentralized identity standards. This experience has given me insight into how technical architecture shapes legal possibilities.
+I am a technologist, not a lawyer or legislator. My perspective comes from decades designing cryptographic systems that millions use daily, including TLS 1.0, which secures web communications, and contributing to decentralized identity standards. This experience has given me insight into how technical architecture shapes legal possibilities.
 
 In recent years, I've had the privilege of advising Wyoming legislators on digital asset and identity legislation, helping translate between technical reality and legal frameworks. This document emerged from those conversations and similar discussions with policymakers seeking practical approaches to digital law.
 
@@ -26,7 +26,7 @@ This package contains four coordinated acts:
 - Cryptographically Verifiable Records Act  
 - Digital Identity Recognition Act  
 
-While the acts build upon each other, states have flexibility in adoption. The Cryptographic Secret Protection Act serves as the foundation, establishing key definitions and standards for all cryptographic systems. States seeking minimal implementation should begin with the Secret Protection Act and the Verifiable Records Act, as these primarily guide courts rather than create new governance structures.  
+While the acts build upon each other, states have flexibility in adoption. The Cryptographic Secret Protection Act serves as the foundation, establishing core definitions and standards for all cryptographic systems. States seeking minimal implementation should begin with the Secret Protection Act and the Verifiable Records Act, as those primarily guide courts rather than creating new governance structures.  
 
 ---
 
@@ -35,7 +35,7 @@ While the acts build upon each other, states have flexibility in adoption. The C
 ### Why This Matters
 Law has not kept up with cryptography. Current state and federal statutes (E-SIGN, UETA, identity pilots) mix together different functions: signing, authenticating records, and proving identity. This creates legal ambiguity and slows innovation.
 
-The **Digital Law Framework** provides a clear, future-proof structure states can adopt in whole or in part.
+The **Digital Law Framework** provides a clear, future-proof structure that states can adopt in whole or in part.
 
 ### The Problem with Current Law
 When E-SIGN was passed in 2000, "electronic signature" meant clicking "I agree" or typing your name. Today we have:
@@ -56,54 +56,11 @@ By separating distinct functions into independent layers, we achieve:
 
 ---
 
-### The Four Layers
-
-- **Layer 0: Cryptographic Secret Protection Act** *(foundation)*  
-  - Protects private keys, seeds, zk-proofs, and other secrets  
-  - Prohibits compelled disclosure of cryptographic secrets  
-  - Prevents economic coercion through cryptographic control
-  - Prevents behavioral surplus extraction
-  - Establishes standards framework for all cryptographic systems
-  - Prefers minimal disclosure (ISO principle) using methods such as public keys, zk-proofs, selective disclosure techniques, or elided proofs  
-  - Prevents government hardware mandates  
-
-- **Layer 1: Digital Signature & Assent Act**  
-  - Did they agree?  
-  - All digital signatures valid  
-  - Multi-sig, revocation recognized  
-  - Protects against duress-based signatures
-  - Identity questions not included  
-
-- **Layer 2: Cryptographically Verifiable Records Act**  
-  - Is the record authentic?  
-  - Self-authentication & admissibility  
-  - Records are tamper-evident and portable
-  - Defers identity questions upward  
-
-- **Layer 3: Digital Identity Recognition Act**  
-  - Who agreed?  
-  - Agency law (principal/agent)  
-  - Recognition of verifiable credentials  
-  - Essential service obligations
-  - State does NOT monopolize ID
-
-### Core Protections Against Platform Abuses
-
-The framework specifically addresses documented platform harms:
-- **Economic Coercion**: Essential services cannot demand cryptographic secrets
-- **Behavioral Extraction**: Platforms cannot use secrets for surveillance without consent
-- **Adhesive Contracts**: Courts must scrutinize "consent" when no alternatives exist
-- **Infrastructure Monopoly**: No entity can control multiple verification layers
-- **Exit Prevention**: Users retain rights to export data and reputation even after revocation
-- **Legibility**: Technical decisions affecting rights must explain who/what/how to appeal  
-
----
-
 ### What Each Layer Does
 
-**Layer 0: Cryptographic Secret Protection Act**
+**Layer 0: Cryptographic Secret Protection Act** *(foundation)* 
 - **Problem it solves**: Courts ordering people to decrypt data or surrender private keys
-- **Solution**: Protects cryptographic secrets like Fifth Amendment protects self-incrimination
+- **Solution**: Protects cryptographic secrets just like Fifth Amendment protects self-incrimination
 - **Real impact**: Your Bitcoin keys, password manager seeds, and biometric templates stay private
 
 **Layer 1: Digital Signature & Assent Act**
@@ -121,6 +78,51 @@ The framework specifically addresses documented platform harms:
 - **Solution**: Recognizes ANY verifiable credential while grounding authority in existing agency law
 - **Real impact**: Your university, employer, or bank can issue credentials the state must recognize
 
+### What Each Layer Contains
+
+- **Layer 0: Cryptographic Secret Protection Act**  
+  - Protects private keys, seeds, zk-proofs, and other secrets  
+  - Prohibits compelled disclosure of cryptographic secrets  
+  - Prevents economic coercion through cryptographic control
+  - Prevents behavioral surplus extraction
+  - Establishes standards framework for all cryptographic systems
+  - Prefers minimal disclosure (ISO principle) using methods such as public keys, zk-proofs, selective disclosure techniques, or elided proofs  
+  - Prevents government hardware mandates  
+
+- **Layer 1: Digital Signature & Assent Act**  
+  - _Did they agree?_  
+  - All digital signatures valid  
+  - Multi-sig, revocation recognized  
+  - Protects against duress-based signatures
+  - Identity questions not included  
+
+- **Layer 2: Cryptographically Verifiable Records Act**  
+  - _Is the record authentic?_
+  - Self-authentication & admissibility  
+  - Records are tamper-evident and portable
+  - Defers identity questions upward  
+
+- **Layer 3: Digital Identity Recognition Act**  
+  - _Who agreed?_  
+  - Agency law (principal/agent)  
+  - Recognition of verifiable credentials  
+  - Essential service obligations
+  - State does NOT monopolize ID
+
+### Core Protections Against Platform Abuses
+
+The framework specifically addresses documented platform harms:
+- **Economic Coercion**: Essential services cannot demand cryptographic secrets
+- **Behavioral Extraction**: Platforms cannot use secrets for surveillance without consent
+- **Adhesive Contracts**: Courts must scrutinize "consent" when no alternatives exist
+- **Infrastructure Monopoly**: No entity can control multiple verification layers
+- **Exit Prevention**: Users retain rights to export data and reputation even after revocation
+- **Legibility**: Technical decisions affecting rights must explain who/what/how to appeal  
+
+---
+
+
+
 ### Why States Should Act Now
 
 **1. Competitive Advantage**
@@ -133,7 +135,7 @@ Businesses currently spend millions on legal opinions for basic digital operatio
 As more life moves online, citizens need protection from forced decryption and recognition of their digital credentials.
 
 **4. No State Spending Required**
-Unlike identity system procurements that cost millions, this framework costs nothing—it just clarifies existing law.
+Unlike identity system procurements that cost millions, this framework costs nothing, it just clarifies existing law.
 
 ### Common Objections Addressed
 
@@ -221,9 +223,9 @@ DIGITAL ASSETS AS PERSONAL PROPERTY
     or other regulatory purposes.
 ```
 
-This avoids complex taxonomies while providing legal clarity. But the four-layer framework may be sufficient without any digital asset definition—it provides the infrastructure for digital assets to function within existing property law.
+This avoids complex taxonomies while providing legal clarity. But the four-layer framework may be sufficient without any digital asset definition. It provides the infrastructure for digital assets to function within existing property law.
 
-The framework also protects against platform-specific abuses documented in recent years - from arbitrary account freezes to behavioral data extraction - through its anti-coercion provisions and legibility requirements.
+The framework also protects against platform-specific abuses documented in recent years, from arbitrary account freezes to behavioral data extraction, through its anti-coercion provisions and legibility requirements.
 
 ### Addressing the Architecture of Extraction
 
