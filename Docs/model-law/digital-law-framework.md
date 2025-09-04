@@ -1,7 +1,16 @@
-# [Draft Package] Digital Law Framework
-## A Technical Architect's Contribution to State Digital Policy
+# Digital Law Framework
 
-*By Christopher Allen*
+**A Trust Architect's Contribution to State Digital Policy**
+
+by Christopher Allen &lt;[ChristopherA@LifeWithAlacrity.com](mailto:ChristopherA@LifeWithAlacrity.com)>
+
+A Supplement to [The Architecture of Autonomy](https://docs.google.com/document/u/0/d/10FLsLu245Mg_OFGnP96ZLdBdsLR_UOj5xh_ZaUuDTL4/edit)
+
+September 3, 2025
+
+Status: Community Draft for Comments (Not for Publication)
+
+## Preface
 
 I am a technologist, not a lawyer or legislator. My perspective comes from decades designing cryptographic systems that millions use daily, including TLS 1.0, which secures web communications, and contributing to decentralized identity standards. This experience has given me insight into how technical architecture shapes legal possibilities.
 
@@ -16,21 +25,19 @@ This document is US-centric, reflecting American legal traditions and federalist
 I'm actively seeking feedback from all parts of the community - technologists, policymakers, legal scholars, and practitioners. What have I missed? What unintended consequences might arise? Please share your thoughts at ChristopherA@LifeWithAlacrity.com.
 
 *Christopher Allen*  
-*August 2025*
-
----
-
-This package contains four coordinated acts:
-- Cryptographic Secret Protection Act (foundational - must be adopted first)
-- Digital Signature and Assent Act  
-- Cryptographically Verifiable Records Act  
-- Digital Identity Recognition Act  
-
-While the acts build upon each other, states have flexibility in adoption. The Cryptographic Secret Protection Act serves as the foundation, establishing core definitions and standards for all cryptographic systems. States seeking minimal implementation should begin with the Secret Protection Act and the Verifiable Records Act, as those primarily guide courts rather than creating new governance structures.  
+*September 2025*
 
 ---
 
 ## Policy Explainer: A Four-Layer Framework for Digital Law
+
+This package contains four coordinated acts:
+* [Cryptographic Secret Protection Act](#bookmark=id.nxdl64py0mo) (foundational - must be adopted first)
+* [Digital Signature and Assent Act](#bookmark=id.kps0xq1vlowt)  
+* [Cryptographically Verifiable Records Act](#bookmark=id.m4ll8gjj50o5)  
+* [Digital Identity Recognition Act](#bookmark=id.ll8xvdcrjdl7)
+
+While the acts build upon each other, states have flexibility in adoption. The Cryptographic Secret Protection Act serves as the foundation, establishing core definitions and standards for all cryptographic systems. States seeking minimal implementation should begin with the Secret Protection Act and the Verifiable Records Act, as those primarily guide courts rather than creating new governance structures.  
 
 ### Why This Matters
 Law has not kept up with cryptography. Current state and federal statutes (E-SIGN, UETA, identity pilots) mix together different functions: signing, authenticating records, and proving identity. This creates legal ambiguity and slows innovation.
