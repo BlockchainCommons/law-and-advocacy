@@ -28,6 +28,8 @@ _A lot of our recent advocacy articles focuses on overidentification, which can 
 
 _Much of our legislative work to date has been with the Wyoming Select Committe on Blockchain, who is leading the United States in the codification of digital rights._
 
+* **10/2/25.** Presented to Switzerland on [Five Anchors to Preserve Digital Autonomy & Democratic Sovereignty](https://developer.blockchaincommons.com/meetings/2025-10-clubs/) in recognition of their passage of the Swiss e-ID referendum. 
+
 * **2/22/23.** [Wyoming Passes Private Key Protection & Digital Asset Registration Laws](https://www.blockchaincommons.com/news/PrivateKeyWRDABills/)
 
 <table width="100%">
