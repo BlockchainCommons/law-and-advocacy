@@ -20,6 +20,8 @@ sidebar:
 
 _A lot of our recent advocacy articles focuses on overidentification, which can literally be an existential danger for many._
 
+* **2/12/26.** [Progress toward a State-Endorsed Identity (SEDI) in Utah](https://www.blockchaincommons.com/musings/Musings-SEDI/)
+* **10/15/25.** [Five Anchors to Preserve Autonomy & Sovereignty](https://www.blockchaincommons.com/musings/musings-swiss-eid/)
 * **3/27/24.** [Foremembrance Day 2024 Presentation](https://www.blockchaincommons.com/videos/Foremembrance2024/)
 * **11/21/23.** [Echoes from History II: The Dangers of eIDAS](https://www.blockchaincommons.com/articles/eidas/)
 * **11/15/23.** [Echoes from History: Designing Self-Sovereign Identity with Care](https://www.blockchaincommons.com/articles/echoes-history/)
