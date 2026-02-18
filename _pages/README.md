@@ -16,12 +16,15 @@ sidebar:
 
 **Blockchain Commons** advocates for the creation of open, interoperable, secure & compassionate digital infrastructure, to enable people to control their own digital destiny and to maintain their human dignity online. Much of our work is technical, focused on the creation and use of interoperable specifications, but other work is legislative, because creating a legal foundation for self-sovereign control of digital assets and identity online is just as important as building that technical foundation.
 
-## Recent Articles
+## Major Articles
 
 _A lot of our recent advocacy articles focuses on overidentification, which can literally be an existential danger for many._
 
 * **2/12/26.** [Progress toward a State-Endorsed Identity (SEDI) in Utah](https://www.blockchaincommons.com/musings/Musings-SEDI/)
+* **11/12/25.** [Announcing the 10-Year SSI Revision Project](https://www.blockchaincommons.com/news/ssi-invite/)
 * **10/15/25.** [Five Anchors to Preserve Autonomy & Sovereignty](https://www.blockchaincommons.com/musings/musings-swiss-eid/)
+* **7/15/25.** [When Technical Standards Meet Geopolitical Reality](https://www.blockchaincommons.com/musings/gdc25/)
+* **10/29/24.** [Has our SSI Ecosystem Become Morally Bankrupt?](https://www.blockchaincommons.com/musings/musings-ssi-bankruptcy/)
 * **3/27/24.** [Foremembrance Day 2024 Presentation](https://www.blockchaincommons.com/videos/Foremembrance2024/)
 * **11/21/23.** [Echoes from History II: The Dangers of eIDAS](https://www.blockchaincommons.com/articles/eidas/)
 * **11/15/23.** [Echoes from History: Designing Self-Sovereign Identity with Care](https://www.blockchaincommons.com/articles/echoes-history/)
