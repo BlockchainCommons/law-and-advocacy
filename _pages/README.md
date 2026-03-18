@@ -16,6 +16,10 @@ sidebar:
 
 **Blockchain Commons** advocates for the creation of open, interoperable, secure & compassionate digital infrastructure, to enable people to control their own digital destiny and to maintain their human dignity online. Much of our work is technical, focused on the creation and use of interoperable specifications, but other work is legislative, because creating a legal foundation for self-sovereign control of digital assets and identity online is just as important as building that technical foundation.
 
+## Current Initiatives
+
+* **3/17/26.** We are co-organizing [Global Digital Collaboration Conference 2026](https://globaldigitalcollaboration.org/). For more see [our announcement](https://www.blockchaincommons.com/news/gdc-organizers/). If you want to suggest topics or receive invitations [let us know](mailto:team@blockchaincommons.com).
+
 ## Major Articles
 
 _A lot of our recent advocacy articles focuses on overidentification, which can literally be an existential danger for many._
@@ -32,8 +36,6 @@ _A lot of our recent advocacy articles focuses on overidentification, which can 
 ## Recent Legislative Work
 
 _Much of our legislative work to date has been with the Wyoming Select Committe on Blockchain, who is leading the United States in the codification of digital rights._
-
-* **3/17/26.** We are co-organizing [Global Digital Collaboration Conference 2026](https://globaldigitalcollaboration.org/). For more see [our announcement](https://www.blockchaincommons.com/news/gdc-organizers/). If you want to suggest topics or receive invitations [let us know](mailto:team@blockchaincommons.com).
 
 * **10/2/25.** Presented to Switzerland on [Five Anchors to Preserve Digital Autonomy & Democratic Sovereignty](https://developer.blockchaincommons.com/meetings/2025-10-clubs/) in recognition of their passage of the Swiss e-ID referendum. 
 
