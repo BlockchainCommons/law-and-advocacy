@@ -18,6 +18,7 @@ sidebar:
 
 ## Current Initiatives
 
+* **4/26/26** Our [Revisiting SSI](https://revisitingssi.com/) initiative is focused on rewriting the Self-Sovereign Identity principles 10 years later. We released a [redline](https://docs.google.com/document/d/1P13Wy1plHWXIonErNXSG8R-n9L4fWTtUzglAcObNSXs/edit?tab=t.0#heading=h.r9vug64meeol) of updated principles on April 26, 2026, and will be continuing forward with final versions over the course of the year.
 * **3/17/26.** We are co-organizing [Global Digital Collaboration Conference 2026](https://globaldigitalcollaboration.org/). For more see [our announcement](https://www.blockchaincommons.com/news/gdc-organizers/). If you want to suggest topics or receive invitations [let us know](mailto:team@blockchaincommons.com).
 
 ## Major Articles
