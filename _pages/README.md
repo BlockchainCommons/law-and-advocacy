@@ -24,6 +24,9 @@ sidebar:
 
 _A lot of our recent advocacy articles focuses on overidentification, which can literally be an existential danger for many._
 
+* **5/19/26** [Sanctuary and Exodus](https://www.blockchaincommons.com/dispatches/sanctuary-exodus/)
+* **4/26/26.** [Ten Years of Self-Sovereign Identity](https://www.blockchaincommons.com/dispatches/ssi-2026-revision/)
+* **3/18/26.** [Fighting Technology Paternalism](https://www.blockchaincommons.com/dispatches/technology-paternalism/)
 * **2/12/26.** [Progress toward a State-Endorsed Identity (SEDI) in Utah](https://www.blockchaincommons.com/musings/Musings-SEDI/)
 * **11/12/25.** [Announcing the 10-Year SSI Revision Project](https://www.blockchaincommons.com/news/ssi-invite/)
 * **10/15/25.** [Five Anchors to Preserve Autonomy & Sovereignty](https://www.blockchaincommons.com/musings/musings-swiss-eid/)
